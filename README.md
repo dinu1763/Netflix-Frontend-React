@@ -11,3 +11,4 @@
 ![](netflix/snapshots/Netflix%20login%20MERN.jpg)
 ![](netflix/snapshots/home%20page%20netflix.jpg)
 ![](netflix/snapshots/category%20page%20netflix.jpg)
+[fw12_085 - S DINESH KUMAR.pdf](https://github.com/dinu1763/Netflix-Frontend-React/files/8205563/fw12_085.-.S.DINESH.KUMAR.pdf)
